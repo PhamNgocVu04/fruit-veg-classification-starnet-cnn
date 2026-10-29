@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 ```
 ├── CNN/          backbone.py, data_loader.py, train.py
 ├── StarNet/      backbone.py, data_loader.py, train.py
-├── notebooks/    CNN_build.ipynb, Build_starnet.ipynb
+├── notebooks/    Bản sao của CNN_build.ipynb, Bản sao của Build_starnet.ipynb
 └── results/      chart_cnn.png, chart_starnet.png
 ```
 
